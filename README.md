@@ -8,3 +8,6 @@ Wrong content added
 
 Day 1 Learning:
 I understood repository, commit and rollback concept.
+
+Day 2:
+Pipeline automatically triggered after commit.
