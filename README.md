@@ -14,3 +14,6 @@ Pipeline automatically triggered after commit.
 
 Day 2 Learning:
 I understood pipeline and automatic trigger (CI).
+
+Day 3 Learning:
+I deployed my first website using CI/CD pipeline.
