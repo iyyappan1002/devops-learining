@@ -11,3 +11,6 @@ I understood repository, commit and rollback concept.
 
 Day 2:
 Pipeline automatically triggered after commit.
+
+Day 2 Learning:
+I understood pipeline and automatic trigger (CI).
