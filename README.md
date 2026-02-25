@@ -17,3 +17,6 @@ I understood pipeline and automatic trigger (CI).
 
 Day 3 Learning:
 I deployed my first website using CI/CD pipeline.
+
+Day 4 Learning:
+I practiced Linux commands and simulated deployment and rollback on a server.
